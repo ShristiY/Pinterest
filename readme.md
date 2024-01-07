@@ -10,9 +10,9 @@ Welcome to the Pinterest Clone project! This is a full-stack web application bui
 * __Responsive Design:__ Ensures a seamless experience across various devices.
 
 # Tech Stack
-*__Backend:__ Node.js, Express.js, MongoDB, Mongoose
-*__Frontend:__ HTML, CSS, JavaScript, EJS
-*__Authentication:__ Passport.js
-*__Database:__ MongoDB
+* __Backend:__ Node.js, Express.js, MongoDB, Mongoose
+* __Frontend:__ HTML, CSS, JavaScript, EJS
+* __Authentication:__ Passport.js
+* __Database:__ MongoDB
 
 

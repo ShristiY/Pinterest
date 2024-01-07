@@ -8,9 +8,9 @@ const userSchema = mongoose.Schema({
   name: String,
   email: String,
   password: String,
-  profileImage: String, // Hum aage jaake profile Image bhi input krayenge taaki usse display kra sken
+  profileImage: String, 
   contact: Number,
-  boards:{      // User kitne boards bana skta. Pinterest me boards banata hai user just like Album jisme images hoti hain
+  boards:{      
     type:Array,
     default:[]
   },
